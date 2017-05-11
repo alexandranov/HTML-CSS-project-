@@ -118,4 +118,33 @@ mp--about--group3--item4{
             padding: 30px 20px;
 }
  
- 
+ @media only screen and (max-width: 1063px){
+  mp--about--groups--group1{
+    flex-direction: column;
+
+  }
+  mp--about--group1--item1{
+     width: 91%;
+    }
+  mp--about--group1--item2{
+     width: 91%;
+    }
+    mp--about--group1--item3{
+     width: 91%;
+    }
+   mp--about--group3{
+       flex-direction: column;
+   }
+   mp--about--group3--item1{
+       width: 94.5%;
+   }
+   mp--about--group3--item2{
+       width: 94.5%;
+   }
+   mp--about--group3--item3{
+       width: 94.5%;
+   }
+   mp--about--group3--item4{
+       width: 94.5%;
+   }
+ }

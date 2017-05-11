@@ -39,3 +39,8 @@ mp--gallery--row-2{
    border: solid 1px white;
    width: 24.8%;  
     }
+ /*@media only screen and (max-width: 800px){
+        mp--gallery--row-2{
+         flex-direction: row;   
+        }
+ }*/
