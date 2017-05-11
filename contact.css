@@ -1,0 +1,22 @@
+mp--contact{  
+    font-family:'Open Sans', sans-serif;     
+}
+    
+mp--contact-maintext{
+    color:#373a3c;
+padding-top: 100px;
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+mp--contact-sidetext{
+    color: #555;
+    display: block;
+    font-size: 18px;
+    line-height: 36px;
+    padding: 20px;
+    padding-left:25%;
+    padding-right: 25%;
+    text-align: center;
+    padding-bottom: 80px;
+}

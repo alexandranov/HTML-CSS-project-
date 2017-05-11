@@ -1,0 +1,122 @@
+mp--home{
+    font-family: 'Open Sans', sans-serif;
+    display: block;
+    padding-top: 150px;
+    }
+mp--home--maintext{
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+mp--home--sidetext{
+    color: #555;
+    display: block;
+    font-size: 18px;
+    line-height: 36px;
+    padding: 20px;
+    padding-left:25%;
+    padding-right: 25%;
+    text-align: center;    
+}
+mp--home--button{
+    display: block;
+    display: flex;   
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    margin-bottom: 150px;  
+
+}
+mp--home--button-OurGallery{
+    display: inline-block;
+    background-color: #d9534f;
+    border-radius: 4px;
+    padding: 16px 40px;
+    font-size: 20px;
+    color: #fff;
+    margin: 10px;
+    
+        }
+mp--home--button-LearnMore{
+    display: inline-block;
+    background-color: #5cb85c;;
+    border-radius: 4px;
+    padding: 16px 40px;
+    font-size: 20px;
+    color: #fff;
+    margin: 10px;
+    
+        }
+ mp--home--items{     
+    width: 90%;
+ }       
+ mp--items{
+     
+    display: flex;   
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    
+    
+
+        } 
+        mp--items--1{
+            border: solid 1px white;
+            width: 22.5%;
+            display: block;   
+            text-align: center;  
+            background-color: #E4E8E8;
+            padding: 30px 20px;
+        }
+        mp--items--icon{
+            display: block;
+            font-size: 48px;
+            padding: 20px;              
+        }
+
+        mp--items--maintext{
+            display: block;
+            font-size: 24px;
+            font-weight: 500;
+            
+        }
+        mp--items--sidetext{
+            display: block;
+            font-size: 16px;
+            line-height: 28px;
+            padding-bottom: 20px;
+            padding-top: 20px;
+        }
+
+        mp--items--2{
+            border: solid 1px white;
+            width: 22.5%;
+            display: block;   
+            text-align: center;  
+            background-color: #999;
+            padding: 30px 20px;
+            color:white;
+        }
+       
+        mp--items--3{
+            display: block;
+            border: solid 1px white; 
+            width: 22.5%;
+            display: block;   
+            text-align: center;  
+            background-color: #666;
+            padding: 30px 20px;
+            color:white;
+        }
+        
+        mp--items--4{
+            display: block;
+            border: solid 1px white;
+            width: 22.5%;
+            display: block;   
+            text-align: center;  
+            background-color: #444;
+            padding: 30px 20px;
+            color:white;
+        }
+       

@@ -1,0 +1,8 @@
+mp--footer{
+     display: flex;
+ }
+ mp--footer--text{
+     color: #808080;
+     font-size: 14px;
+     font-weight: 500;
+ }

@@ -1,0 +1,121 @@
+mp--about{
+    font-family:'Open Sans', sans-serif;  
+    
+}
+    
+mp--about-maintext{
+    color: #373a3c;
+padding-top: 100px;
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+mp--about-sidetext{
+    color: #555;
+    display: block;
+    font-size: 18px;
+    line-height: 36px;
+    padding: 20px;
+    padding-left:25%;
+    padding-right: 25%;
+    text-align: center;
+    padding-bottom: 80px;
+}
+mp--about--groups--group1{
+            font-family: 'Open Sans', sans-serif;
+            display: flex;   
+            flex-direction: row;
+            justify-content:space-between;
+            align-items: center;
+}
+mp--about--group1--item1{
+            
+            border: solid 1px white;           
+            display: block;
+            background-color: #E4E8E8;
+            padding: 60px 40px;
+}
+mp--about--group--item-maintext{
+            display: block;
+            font-size: 30px;
+            font-weight: 500;
+            
+        }
+ mp--about--group--item-sidetext{
+            display: block;
+            font-size: 18px;
+            line-height: 28px;
+            padding-bottom: 20px;
+            padding-top: 20px;
+        }
+mp--about--group1--item2{
+            border: solid 1px white;
+            color: white;
+            display: block;   
+            background-color: #999;
+            padding: 60px 40px;
+}
+mp--about--group1--item3{           
+            border: solid 1px white;
+            color: white;
+            display: block;   
+            background-color: #666;
+            padding: 60px 40px;
+}
+mp--about--group2{
+            font-family: 'Open Sans', sans-serif;
+            display: flex;   
+            flex-direction: row;
+            justify-content:space-between;
+            align-items: center;
+}
+mp--about--group2--item1{
+            border: solid 1px white;           
+            display: block;   
+              
+            background-color: #EBE;
+            padding: 30px 20px;
+}
+mp--about--group2--item2{
+            border: solid 1px white;
+            
+            display: block;   
+             
+            background-color: #92C4F8;
+            padding: 30px 20px;
+}
+
+mp--about--group3{
+            font-family: 'Open Sans', sans-serif;
+            color: white;
+            display: flex;   
+            flex-direction: row;
+            justify-content:space-between;
+            align-items: center;
+}
+mp--about--group3--item1{
+            border: solid 1px white;           
+            display: block;     
+            background-color: #A52;
+            padding: 30px 20px;
+}
+mp--about--group3--item2{
+            border: solid 1px white;            
+            display: block;    
+            background-color: #28B;
+            padding: 30px 20px;
+}
+mp--about--group3--item3{
+            display: block;
+            border: solid 1px white; 
+            background-color: #496;
+            padding: 30px 20px;
+}
+mp--about--group3--item4{
+            display: block;
+            border: solid 1px white;
+            background-color: #A4A430;
+            padding: 30px 20px;
+}
+ 
+ 
